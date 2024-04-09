@@ -39,3 +39,6 @@ EDA has provided valuable insights into factors influencing diabetes diagnosis a
 - Develop early detection strategies using predictive modeling.
 - Promote lifestyle interventions for at-risk populations.
 - Emphasize regular health screenings and monitoring for better management.
+
+### Documentation:
+A well-detailed documentation of the analysis is included in the attached files, providing comprehensive insights into the methodology, findings, and recommendations derived from the EDA process.
